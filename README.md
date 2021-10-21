@@ -7,6 +7,8 @@ I'm an enthusiastic and attentive programmer and creative mind with a diploma de
 
 🎵&nbsp;&nbsp;[some tunes](https://open.spotify.com/playlist/0drGOYsIQNdKno777ileaQ?si=5035c409117745f0)
 
+Get in touch 💌&nbsp;&nbsp;[mail@timjungmann.com](mailto:mail@timjungmann.com)
+
 Take a look at my pinned repositories below. I work with:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,5 +25,3 @@ Take a look at my pinned repositories below. I work with:
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-Get in touch 💌&nbsp;&nbsp;[mail@timjungmann.com](mailto:mail@timjungmann.com)
