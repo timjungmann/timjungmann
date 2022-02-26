@@ -1,10 +1,10 @@
 <img align="left" src="http://wrasse.pw/~joel/icons/Nbd2s.gif">
 
-### Hey!
+### Hey! 👋
 
-🎵&nbsp;&nbsp;[some tunes](https://open.spotify.com/playlist/0drGOYsIQNdKno777ileaQ?si=5035c409117745f0)
+Listen to 🎵&nbsp;&nbsp;[some tunes](https://open.spotify.com/playlist/0drGOYsIQNdKno777ileaQ?si=5035c409117745f0)
 
-Get in touch 💌&nbsp;&nbsp;[mail@timjungmann.com](mailto:mail@timjungmann.com)
+and get in touch 💌&nbsp;&nbsp;[mail@timjungmann.com](mailto:mail@timjungmann.com)
 
 Take a look at my pinned repositories below. I work with:
 
