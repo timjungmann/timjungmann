@@ -1,9 +1,6 @@
 <img align="left" src="http://wrasse.pw/~joel/icons/Nbd2s.gif">
 
 ### Hey!
-I'm an enthusiastic and attentive programmer and creative mind with a diploma degree in Fine Art and a Full Stack training in web development. I am currently looking for my first position in the software world.
-
-🕸&nbsp;&nbsp;[my linkedin](https://www.linkedin.com/in/tim-jungmann-7b62a3206/)
 
 🎵&nbsp;&nbsp;[some tunes](https://open.spotify.com/playlist/0drGOYsIQNdKno777ileaQ?si=5035c409117745f0)
 
